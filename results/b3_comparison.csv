@@ -1,0 +1,3 @@
+Model,WER (%),CER (%),WER Δ,CER Δ
+Whisper-tiny (base),119.94,78.55,-,-
+Whisper-tiny (fine-tuned),117.09,74.01,-2.86%,-4.54%

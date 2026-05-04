@@ -1,0 +1,10 @@
+torch
+datasets<3.0.0
+transformers
+evaluate
+jiwer
+librosa
+pandas
+numpy
+matplotlib
+accelerate
